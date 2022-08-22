@@ -5,6 +5,18 @@ We will also try to promote the work of other modders as much as possible, be it
 
 ## Getting started with modding the Trails series
 ## What is currently doable
+We define a difficulty scale for each item which reads like this:
+
+☆☆☆☆☆ : straightforward, nothing difficult, takes literal minutes to be done\
+★☆☆☆☆ : simple manipulation, no or very little coding background required\
+★★☆☆☆ : a little more advanced, usually involves setting up a special environment like Python\
+★★★☆☆ : a bit hard but still manageable for someone who has some background in programming and can interpret binary data\
+★★★★☆ : pretty hard. not accessible to everyone. little to no documentation exist. A tool might exist but it is very rough or prone to cause errors\
+★★★★★ : either a very difficult process with many complex and time consuming steps, or no tool exists for that specific purpose and you're on your own
+
+**Trails in the Sky series**\
+Event editing: difficulty: ★★☆☆☆ [FC, SC, 3rd]
+
 ## FAQ
 ## Places we recommend checking out
 **[The Kiseki Modding Server](https://discord.gg/wYkWS33NQt)**
