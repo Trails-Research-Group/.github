@@ -15,33 +15,33 @@ We define a difficulty scale for each item which reads like this:
 ★★★★★ : either a very difficult process with many complex and time consuming steps, or no tool exists (to our knowledge), you're on your own
 
 ### Trails in the Sky series
-Event editing: ★★☆☆☆ [FC, SC, 3rd]\
+Event editing: ★★☆☆☆ [FC, SC, 3rd] | [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit), [Tool](https://github.com/Ouroboros/EDDecompiler)\
 Texture injection/extraction: ★☆☆☆☆ [FC]\
-Sprite extraction/injection: ★☆☆☆☆ [FC, SC, 3rd]\
+Sprite extraction/injection: ★☆☆☆☆ [FC, SC, 3rd] | [Tool](https://github.com/Sewer56/Kiseki-Texture-Tool)\
 Model extraction/injection: UNKNOWN [FC, SC, 3rd]\
-Craft editing: ★★★☆☆ [FC]\
-Table editing: ★☆☆☆☆ [FC]
+Craft editing: ★★★☆☆ [FC] | [Tool](https://github.com/TwnKey/ED6ASDecompiler)\
+Table editing: ★☆☆☆☆ [FC] | [Tool](https://github.com/Kaplas80/TranslationFramework2)
 
 ### Crossbell series
-Event editing: ★★☆☆☆ [Zero, Azure]\
+Event editing: ★★☆☆☆ [Zero, Azure] | [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit), [Tool](https://github.com/Ouroboros/EDDecompiler)\
 Texture injection/extraction: UNKNOWN [Zero, Azure]\
 Sprite extraction/injection: UNKNOWN [Zero, Azure]\
 Model extraction/injection: UNKNOWN [FC, SC, 3rd]\
 Table editing: ★★★★★ [Zero, Ao] (No public tool exists)
 
 ### Trails of Cold Steel series
-Event editing: ★★★☆☆ [CS, CS2] ★★☆☆☆ [CS3, CS4, Reverie]\
-Texture injection/extraction: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie]\
-Model extraction: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie]\
-Model injection: ★★★★★ [CS, CS2, CS3, CS4, Reverie]\(No public tool exists)\
+Event editing: ★★★☆☆ [CS, CS2] ★★☆☆☆ [CS3, CS4, Reverie] | [CS1, CS2](https://github.com/TwnKey/SenScriptsDecompiler), [CS3](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED83), [CS4](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED84), [Reverie](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED85) | [SenScripts Guide](https://docs.google.com/document/d/1YVjFSkPsj9M0UgsI6_de4TSz35MeL_rGuhSQDtRTXxw/edit?usp=sharing)\
+Texture injection/extraction: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Guide](https://forums.dolphin-emu.org/Thread-custom-texture-tool-ps-v50-1?pid=482262#pid482262)\
+Model extraction: ★★☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Tool](https://github.com/uyjulian/ed8pkg2glb)\
+Model injection: ★★★★★ [CS, CS2, CS3, CS4, Reverie] (No public tool exists)\
 Table editing: ★★★☆☆ [CS, CS2, CS3, CS4, Reverie] (No public tool exists, manageable through hex editing)\
 Effect editing: ★★★★★ [CS, CS2, CS3, CS4, Reverie]\(No public tool exists and hardly manageable through hex editing)
 
 ### Calvard series
-Event editing: ★★★☆☆ [Kuro]\
-Table editing: ★★☆☆☆ [Kuro]\
+Event editing: ★★★☆☆ [Kuro] | [Tool](https://github.com/nnguyen259/KuroTools) [Guide](https://docs.google.com/document/d/19ajbTZzda54i5xZWDLXOq0oOVQrhJYXU9rmgz3Ya3Bc/edit?usp=sharing)\
+Table editing: ★★☆☆☆ [Kuro]| [Tool](https://github.com/nnguyen259/KuroTools) [Guide](https://docs.google.com/document/d/19ajbTZzda54i5xZWDLXOq0oOVQrhJYXU9rmgz3Ya3Bc/edit?usp=sharing)\
 Texture injection/extraction: ☆☆☆☆☆ [Kuro]\
-Model extraction: ★☆☆☆☆ [Kuro]\
+Model extraction: ★☆☆☆☆ [Kuro] | [Exe](https://github.com/nnguyen259/KuroTools) [Python](https://gist.github.com/uyjulian/9a9d6395682dac55d113b503b1172009)\
 Model injection: ★★★★★ [Kuro] (No public tool exists)
 
 ## FAQ
