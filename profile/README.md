@@ -26,14 +26,16 @@ Texture injection/extraction: ★☆☆☆☆ [FC] | [Tool](https://github.com/K
 Sprite extraction/injection: ★☆☆☆☆ [FC, SC, 3rd] | [Tool](https://github.com/Sewer56/Kiseki-Texture-Tool)\
 Model extraction/injection: UNKNOWN [FC, SC, 3rd]\
 Craft editing: ★★★☆☆ [FC] | [Tool](https://github.com/TwnKey/ED6ASDecompiler)\
-Table editing: ★☆☆☆☆ [FC] | [Tool](https://github.com/Kaplas80/TranslationFramework2)
+Table editing: ★☆☆☆☆ [FC] | [Tool](https://github.com/Kaplas80/TranslationFramework2)\
+Font Creation: ★★☆☆☆ [FC, SC, 3rd] |[Tool]([https://github.com/Kaplas80/TranslationFramework2](https://github.com/ZhenjianYang/SoraTranslation-Tools)
 
 ### Crossbell series
 Event editing: ★★☆☆☆ [Zero, Azure] | [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit), [Tool](https://github.com/Ouroboros/EDDecompiler)\
 Texture injection/extraction: UNKNOWN [Zero, Azure]\
 Sprite extraction/injection: UNKNOWN [Zero, Azure]\
-Model extraction/injection: UNKNOWN [FC, SC, 3rd]\
-Table editing: ★★★★★ [Zero, Ao] (No public tool exists)
+Model extraction/injection: UNKNOWN [Zero, Azure]\
+Table editing: ★★★★★ [Zero, Azure] (No public tool exists)\
+Font Creation: UNKNOWN [Zero, Azure] |[Tool]([https://github.com/Kaplas80/TranslationFramework2](https://github.com/ZhenjianYang/SoraTranslation-Tools)
 
 ### Trails of Cold Steel series
 Event editing: ★★★☆☆ [CS, CS2] ★★☆☆☆ [CS3, CS4, Reverie] | [CS1, CS2](https://github.com/TwnKey/SenScriptsDecompiler), [CS3](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED83), [CS4](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED84), [Reverie](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED85) | [SenScripts Guide](https://docs.google.com/document/d/1YVjFSkPsj9M0UgsI6_de4TSz35MeL_rGuhSQDtRTXxw/edit?usp=sharing)\
@@ -41,7 +43,8 @@ Texture injection/extraction: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Gu
 Model extraction: ★★☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Tool](https://github.com/uyjulian/ed8pkg2glb)\
 Model injection: ★★★★★ [CS, CS2, CS3, CS4, Reverie] (No public tool exists)\
 Table editing: ★★★☆☆ [CS, CS2, CS3, CS4, Reverie] (No public tool exists, manageable through hex editing)\
-Effect editing: ★★★★★ [CS, CS2, CS3, CS4, Reverie]\(No public tool exists and hardly manageable through hex editing)
+Effect editing: ★★★★★ [CS, CS2, CS3, CS4, Reverie]\(No public tool exists and hardly manageable through hex editing)\
+Font Creation: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Tool](https://github.com/TwnKey/FalcomFontCreator)
 
 ### Calvard series
 Event editing: ★★★☆☆ [Kuro] | [Tool](https://github.com/nnguyen259/KuroTools) [Guide](https://docs.google.com/document/d/19ajbTZzda54i5xZWDLXOq0oOVQrhJYXU9rmgz3Ya3Bc/edit?usp=sharing)\
@@ -49,10 +52,11 @@ Table editing: ★★☆☆☆ [Kuro]| [Tool](https://github.com/nnguyen259/Kuro
 Texture injection/extraction: ☆☆☆☆☆ [Kuro]\
 Model extraction: ★☆☆☆☆ [Kuro] | [Exe](https://github.com/nnguyen259/KuroTools) [Python](https://gist.github.com/uyjulian/9a9d6395682dac55d113b503b1172009)\
 Model injection: ★★★★★ [Kuro] (No public tool exists)
+Font Creation: ★★★☆☆ [Kuro] | [Tool](https://github.com/TwnKey/ED9FontConverter)
 
 ## FAQ
-- How to backport characters from the latest game to a previous entry (usually Kuro to CS, CS2 to CS1, CS4 to CSX):
-Backporting is currently one of the most complex tasks in Trails modding. It is also not documented at all. You will currently not find help anywhere, but we are planning to write a guide for Kuro to CSIV if possible.
+- *How to backport characters from the latest game to a previous entry (usually Kuro to CS, CS2 to CS1, CS4 to CSX)?*\
+Backporting is currently one of the most complex tasks in Trails modding. It is also not documented at all. You will currently not find help anywhere, but we are planning to write a guide for Kuro to CSIV if possible, depending on several factors.
 
 ## Places we recommend checking out
 **[The Kiseki Modding Server](https://discord.gg/wYkWS33NQt)**
