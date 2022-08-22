@@ -5,8 +5,8 @@ We will also try to promote the work of other modders as much as possible, be it
 
 The philosophy of our group is that we don't answer questions directly, but will consider writing a guide so that we don't have to repeat ourselves, as the questions in the modding community usually end up being more or less the same every time. And this is due to the fact that barely anyone documents their work among the modders and tool makers.
 
-## For newcomers
-For people wanting to get into modding the Trails games, you might want to start looking at the "What is currently doable" section, which will give you hints on what you can currently achieve with the limited knowledge you have (as a newcomer to the scene), as well as guides and tools to achieve your goals. 
+## To newcomers
+To people wanting to get into modding the Trails games, you might want to start looking at the "What is currently doable" section, which will give you hints on what you can currently achieve with the limited knowledge you have (as a newcomer to the scene), as well as guides and tools to achieve your goals. 
 
 Please also have a look at the FAQ section which contains the most frequently asked questions regarding mods, there is a good chance you will find your answer there. Finally, if nothing here helps, please feel free to drop by the various modding discords, forums and communities and ask your question there.
 
@@ -75,7 +75,10 @@ Database containing the script for all the Trails games, sorted by script files,
 
 ## Released Mods
 ## Showcases
-
+[Shizuna's backport to CSIV](https://www.youtube.com/watch?v=mJz8IeevlDw&ab_channel=Twn)
+[Playable/Transformable McBurn in CSIV](https://www.youtube.com/watch?v=2tHkFzYEoik&ab_channel=NBigboyC2)
+["Ogre unleashed" in CS1](https://www.youtube.com/watch?v=BCwvs3dekz8&ab_channel=NBigboyC2)
+[Laura "Radiant Dance" craft from CS1, ported to CSIII](https://www.youtube.com/watch?v=cC9knrPk4sQ&ab_channel=NBigboyC2)
 <!--
 
 **Here are some ideas to get you started:**
