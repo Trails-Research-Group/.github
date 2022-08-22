@@ -27,7 +27,7 @@ Sprite extraction/injection: ★☆☆☆☆ [FC, SC, 3rd] | [Tool](https://gith
 Model extraction/injection: UNKNOWN [FC, SC, 3rd]\
 Craft editing: ★★★☆☆ [FC] | [Tool](https://github.com/TwnKey/ED6ASDecompiler)\
 Table editing: ★☆☆☆☆ [FC] | [Tool](https://github.com/Kaplas80/TranslationFramework2)\
-Font Creation: ★★☆☆☆ [FC, SC, 3rd] |[Tool]([https://github.com/Kaplas80/TranslationFramework2](https://github.com/ZhenjianYang/SoraTranslation-Tools)
+Font Creation: ★★☆☆☆ [FC, SC, 3rd] |[Tool](https://github.com/ZhenjianYang/SoraTranslation-Tools)
 
 ### Crossbell series
 Event editing: ★★☆☆☆ [Zero, Azure] | [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit), [Tool](https://github.com/Ouroboros/EDDecompiler)\
@@ -35,7 +35,7 @@ Texture injection/extraction: UNKNOWN [Zero, Azure]\
 Sprite extraction/injection: UNKNOWN [Zero, Azure]\
 Model extraction/injection: UNKNOWN [Zero, Azure]\
 Table editing: ★★★★★ [Zero, Azure] (No public tool exists)\
-Font Creation: UNKNOWN [Zero, Azure] |[Tool]([https://github.com/Kaplas80/TranslationFramework2](https://github.com/ZhenjianYang/SoraTranslation-Tools)
+Font Creation: UNKNOWN [Zero, Azure] 
 
 ### Trails of Cold Steel series
 Event editing: ★★★☆☆ [CS, CS2] ★★☆☆☆ [CS3, CS4, Reverie] | [CS1, CS2](https://github.com/TwnKey/SenScriptsDecompiler), [CS3](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED83), [CS4](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED84), [Reverie](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED85) | [SenScripts Guide](https://docs.google.com/document/d/1YVjFSkPsj9M0UgsI6_de4TSz35MeL_rGuhSQDtRTXxw/edit?usp=sharing)\
@@ -51,7 +51,7 @@ Event editing: ★★★☆☆ [Kuro] | [Tool](https://github.com/nnguyen259/Kur
 Table editing: ★★☆☆☆ [Kuro]| [Tool](https://github.com/nnguyen259/KuroTools) [Guide](https://docs.google.com/document/d/19ajbTZzda54i5xZWDLXOq0oOVQrhJYXU9rmgz3Ya3Bc/edit?usp=sharing)\
 Texture injection/extraction: ☆☆☆☆☆ [Kuro]\
 Model extraction: ★☆☆☆☆ [Kuro] | [Exe](https://github.com/nnguyen259/KuroTools) [Python](https://gist.github.com/uyjulian/9a9d6395682dac55d113b503b1172009)\
-Model injection: ★★★★★ [Kuro] (No public tool exists)
+Model injection: ★★★★★ [Kuro] (No public tool exists)\
 Font Creation: ★★★☆☆ [Kuro] | [Tool](https://github.com/TwnKey/ED9FontConverter)
 
 ## FAQ
