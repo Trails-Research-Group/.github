@@ -3,7 +3,13 @@ This group is made of modders of the Trails games who aim to make modding access
 Our goal is to offer a quick presentation of the modding scene, including available tools, guides and general documentation that has been established over the years.
 We will also try to promote the work of other modders as much as possible, be it tools or actual mods.
 
-## Getting started with modding the Trails series
+The philosophy of our group is that we don't answer questions directly, but will consider writing a guide so that we don't have to repeat ourselves, as the questions in the modding community usually end up being more or less the same every time. And this is due to the fact that barely anyone documents their work among the modders and tool makers.
+
+## For newcomers
+For people wanting to get into modding the Trails games, you might want to start looking at the "What is currently doable" section, which will give you hints on what you can currently achieve with the limited knowledge you have (as a newcomer to the scene), as well as guides and tools to achieve your goals. 
+
+Please also have a look at the FAQ section which contains the most frequently asked questions regarding mods, there is a good chance you will find your answer there. Finally, if nothing here helps, please feel free to drop by the various modding discords, forums and communities and ask your question there.
+
 ## What is currently doable
 We define a difficulty scale for each item which reads like this:
 
@@ -16,7 +22,7 @@ We define a difficulty scale for each item which reads like this:
 
 ### Trails in the Sky series
 Event editing: ★★☆☆☆ [FC, SC, 3rd] | [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit), [Tool](https://github.com/Ouroboros/EDDecompiler)\
-Texture injection/extraction: ★☆☆☆☆ [FC]\
+Texture injection/extraction: ★☆☆☆☆ [FC] | [Tool](https://github.com/Kaplas80/TranslationFramework2)\
 Sprite extraction/injection: ★☆☆☆☆ [FC, SC, 3rd] | [Tool](https://github.com/Sewer56/Kiseki-Texture-Tool)\
 Model extraction/injection: UNKNOWN [FC, SC, 3rd]\
 Craft editing: ★★★☆☆ [FC] | [Tool](https://github.com/TwnKey/ED6ASDecompiler)\
@@ -45,6 +51,7 @@ Model extraction: ★☆☆☆☆ [Kuro] | [Exe](https://github.com/nnguyen259/K
 Model injection: ★★★★★ [Kuro] (No public tool exists)
 
 ## FAQ
+
 ## Places we recommend checking out
 **[The Kiseki Modding Server](https://discord.gg/wYkWS33NQt)**
 
@@ -65,6 +72,10 @@ Contains a list of several tools gathered over the years. Managed by [Ouroboros]
 **[Trails in the Database](https://trailsinthedatabase.com/)** 
 
 Database containing the script for all the Trails games, sorted by script files, which can sometimes be of use for modding. Managed by [the database](https://github.com/the-database).
+
+## Released Mods
+## Showcases
+
 <!--
 
 **Here are some ideas to get you started:**
