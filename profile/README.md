@@ -19,7 +19,7 @@ Event editing: ★★☆☆☆ [FC, SC, 3rd]\
 Texture injection/extraction: ★☆☆☆☆ [FC]\
 Sprite extraction/injection: ★☆☆☆☆ [FC, SC, 3rd]\
 Model extraction/injection: UNKNOWN [FC, SC, 3rd]\
-AS ._DT files editing: ★★★☆☆ [FC]\
+Craft editing: ★★★☆☆ [FC]\
 Table editing: ★☆☆☆☆ [FC]
 
 ### Crossbell series
