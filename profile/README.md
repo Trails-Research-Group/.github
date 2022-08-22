@@ -25,7 +25,7 @@ Contains a list of several tools gathered over the years. Managed by [Ouroboros]
 
 **[Trails in the Database](https://trailsinthedatabase.com/)** 
 
-Database containing the script for all the Trails games series, sorted by files, which can sometimes be of use for modding. Managed by [the database](https://github.com/the-database).
+Database containing the script for all the Trails games, sorted by script files, which can sometimes be of use for modding. Managed by [the database](https://github.com/the-database).
 <!--
 
 **Here are some ideas to get you started:**
