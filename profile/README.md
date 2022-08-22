@@ -51,6 +51,8 @@ Model extraction: ★☆☆☆☆ [Kuro] | [Exe](https://github.com/nnguyen259/K
 Model injection: ★★★★★ [Kuro] (No public tool exists)
 
 ## FAQ
+- How to backport characters from the latest game to a previous entry (usually Kuro to CS, CS2 to CS1, CS4 to CSX):
+Backporting is currently one of the most complex tasks in Trails modding. It is also not documented at all. You will currently not find help anywhere, but we are planning to write a guide for Kuro to CSIV if possible.
 
 ## Places we recommend checking out
 **[The Kiseki Modding Server](https://discord.gg/wYkWS33NQt)**
