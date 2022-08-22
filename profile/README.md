@@ -11,11 +11,38 @@ We define a difficulty scale for each item which reads like this:
 ★☆☆☆☆ : simple manipulation, no or very little coding background required\
 ★★☆☆☆ : a little more advanced, usually involves setting up a special environment like Python\
 ★★★☆☆ : a bit hard but still manageable for someone who has some background in programming and can interpret binary data\
-★★★★☆ : pretty hard. not accessible to everyone. little to no documentation exist. A tool might exist but it is very rough or prone to cause errors\
-★★★★★ : either a very difficult process with many complex and time consuming steps, or no tool exists for that specific purpose and you're on your own
+★★★★☆ : pretty hard. not accessible to everyone. little to no documentation exist. A tool might exist but it is very rough\
+★★★★★ : either a very difficult process with many complex and time consuming steps, or no tool exists (to our knowledge), you're on your own
 
-**Trails in the Sky series**\
-Event editing: difficulty: ★★☆☆☆ [FC, SC, 3rd]
+### Trails in the Sky series
+Event editing: ★★☆☆☆ [FC, SC, 3rd]\
+Texture injection/extraction: ★☆☆☆☆ [FC]\
+Sprite extraction/injection: ★☆☆☆☆ [FC, SC, 3rd]\
+Model extraction/injection: UNKNOWN [FC, SC, 3rd]\
+AS ._DT files editing: ★★★☆☆ [FC]\
+Table editing: ★☆☆☆☆ [FC]
+
+### Crossbell series
+Event editing: ★★☆☆☆ [Zero, Azure]\
+Texture injection/extraction: UNKNOWN [Zero, Azure]\
+Sprite extraction/injection: UNKNOWN [Zero, Azure]\
+Model extraction/injection: UNKNOWN [FC, SC, 3rd]\
+Table editing: ★★★★★ [Zero, Ao] (No public tool exists)
+
+### Trails of Cold Steel series
+Event editing: ★★★☆☆ [CS, CS2] ★★☆☆☆ [CS3, CS4, Reverie]\
+Texture injection/extraction: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie]\
+Model extraction: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie]\
+Model injection: ★★★★★ [CS, CS2, CS3, CS4, Reverie]\(No public tool exists)\
+Table editing: ★★★☆☆ [CS, CS2, CS3, CS4, Reverie] (No public tool exists, manageable through hex editing)\
+Effect editing: ★★★★★ [CS, CS2, CS3, CS4, Reverie]\(No public tool exists and hardly manageable through hex editing)
+
+### Calvard series
+Event editing: ★★★☆☆ [Kuro]\
+Table editing: ★★☆☆☆ [Kuro]\
+Texture injection/extraction: ☆☆☆☆☆ [Kuro]\
+Model extraction: ★☆☆☆☆ [Kuro]\
+Model injection: ★★★★★ [Kuro] (No public tool exists)
 
 ## FAQ
 ## Places we recommend checking out
