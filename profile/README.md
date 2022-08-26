@@ -28,7 +28,8 @@ Model extraction/injection: UNKNOWN [FC, SC, 3rd]\
 Craft editing: ★★★☆☆ [FC] | [Tool](https://github.com/TwnKey/ED6ASDecompiler)\
 Table editing: ★☆☆☆☆ [FC] | [Tool](https://github.com/Kaplas80/TranslationFramework2)\
 Font Creation: ★★☆☆☆ [FC, SC, 3rd] |[Tool](https://github.com/ZhenjianYang/SoraTranslation-Tools)\
-BGM/OST extraction: ☆☆☆☆☆ [FC, SC, 3rd] | BGM folder contains all music files
+BGM/OST extraction: ☆☆☆☆☆ [FC, SC, 3rd] | BGM folder contains all music files\
+Replace BGM: ★☆☆☆☆ [FC, SC, 3rd] | [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Extract-and-replace-BGM)
 
 ### Crossbell series
 Event editing: ★★☆☆☆ [Zero, Azure] | [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit), [Tool](https://github.com/Ouroboros/EDDecompiler)\
@@ -47,6 +48,7 @@ Table editing: ★★★☆☆ [CS, CS2, CS3, CS4, Reverie] (No public tool exis
 Effect editing: ★★★★★ [CS, CS2, CS3, CS4, Reverie]\(No public tool exists and hardly manageable through hex editing)\
 Font Creation: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Tool](https://github.com/TwnKey/FalcomFontCreator)\
 BGM/OST extraction: ☆☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | data/bgm folder contains all music files\
+Replace BGM: ★☆☆☆☆ [CS3] | [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Extract-and-replace-BGM)\
 Voice extraction: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | data/voice folder contains all voice lines, but finding a specific one requires some effort
 
 ### Calvard series
