@@ -21,47 +21,45 @@ We define a difficulty scale for each item which reads like this:
 ★★★★★ : either a very difficult process with many complex and time consuming steps, or no tool exists (to our knowledge), you're on your own
 
 ### Trails in the Sky series
-Event editing: ★★☆☆☆ [FC, SC, 3rd] | [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit), [Tool](https://github.com/Ouroboros/EDDecompiler)\
-Texture injection/extraction: ★☆☆☆☆ [FC] | [Tool](https://github.com/Kaplas80/TranslationFramework2)\
-Sprite extraction/injection: ★☆☆☆☆ [FC, SC, 3rd] | [Tool](https://github.com/Sewer56/Kiseki-Texture-Tool)\
-Model extraction/injection: UNKNOWN [FC, SC, 3rd]\
-Craft editing: ★★★☆☆ [FC] | [Tool](https://github.com/TwnKey/ED6ASDecompiler)\
-Table editing: ★☆☆☆☆ [FC] | [Tool](https://github.com/Kaplas80/TranslationFramework2)\
-Font Creation: ★★☆☆☆ [FC, SC, 3rd] |[Tool](https://github.com/ZhenjianYang/SoraTranslation-Tools)\
-BGM/OST extraction: ☆☆☆☆☆ [FC, SC, 3rd] | BGM folder contains all music files\
-Replace BGM: ★☆☆☆☆ [FC, SC, 3rd] | [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Extract-and-replace-BGM)
+- Event editing: ★★☆☆☆ [FC, SC, 3rd] | [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit), [Tool](https://github.com/Ouroboros/EDDecompiler)
+- Texture injection/extraction: ★☆☆☆☆ [FC] | [Tool](https://github.com/Kaplas80/TranslationFramework2)
+- Sprite extraction/injection: ★☆☆☆☆ [FC, SC, 3rd] | [Tool](https://github.com/Sewer56/Kiseki-Texture-Tool)
+- Model extraction/injection: UNKNOWN [FC, SC, 3rd]
+- Craft editing: ★★★☆☆ [FC] | [Tool](https://github.com/TwnKey/ED6ASDecompiler)
+- Table editing: ★☆☆☆☆ [FC] | [Tool](https://github.com/Kaplas80/TranslationFramework2)
+- Font Creation: ★★☆☆☆ [FC, SC, 3rd] |[Tool](https://github.com/ZhenjianYang/SoraTranslation-Tools)
+- BGM/OST extraction: ☆☆☆☆☆ [FC, SC, 3rd] | BGM folder contains all music files
+- Replace BGM: ★☆☆☆☆ [FC, SC, 3rd] | [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Extract-and-replace-BGM)
 
 ### Crossbell series
-Event editing: ★★☆☆☆ [Zero, Azure] | [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit), [Tool](https://github.com/GeofrontTeam/EDDecompiler) (Note that multiple forks of EDDecompiler exist and this one is probably the most advanced one, including scripts for Zero and Azure Kai versions)\
-Texture injection/extraction: UNKNOWN [Zero, Azure]\
-Sprite extraction/injection: UNKNOWN [Zero, Azure]\
-Model extraction/injection: UNKNOWN [Zero, Azure]\
-Table editing: ★★★★★ [Zero, Azure] (Public tools might exist but they're scattered everywhere and don't support every table)\
-Font Creation: ★☆☆☆☆ [Zero (NISA)] | [Tool](https://github.com/TwnKey/FalcomFontCreator)\
+- Event editing: ★★☆☆☆ [Zero, Azure] | [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit), [Tool](https://github.com/GeofrontTeam/EDDecompiler) (Note that multiple forks of EDDecompiler exist and this one is probably the most advanced one, including scripts for Zero and Azure Kai versions)
+- Texture injection/extraction: UNKNOWN [Zero, Azure]
+- Sprite extraction/injection: UNKNOWN [Zero, Azure]
+- Model extraction/injection: UNKNOWN [Zero, Azure]
+- Table editing: ★★★★★ [Zero, Azure] (Public tools might exist but they're scattered everywhere and don't support every table)
+- Font Creation: ★☆☆☆☆ [Zero (NISA)] | [Tool](https://github.com/TwnKey/FalcomFontCreator)
 
 ### Trails of Cold Steel series
-Event editing: ★★★☆☆ [CS, CS2] ★★☆☆☆ [CS3, CS4, Reverie] | [CS1, CS2](https://github.com/TwnKey/SenScriptsDecompiler), [CS3](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED83), [CS4](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED84), [Reverie](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED85) | [SenScripts Guide](https://docs.google.com/document/d/1YVjFSkPsj9M0UgsI6_de4TSz35MeL_rGuhSQDtRTXxw/edit?usp=sharing)\
-Texture injection/extraction: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Guide](https://forums.dolphin-emu.org/Thread-custom-texture-tool-ps-v50-1?pid=482262#pid482262)\
-Model extraction: ★★☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Tool](https://github.com/uyjulian/ed8pkg2glb)\
-Model injection: ★★★★★ [CS4] | [Tools](https://github.com/Trails-Research-Group/Doc/releases/tag/v0.0) [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Import-custom-models-to-Cold-Steel-IV)\
-Table editing: ★☆☆☆☆ [CS, CS2, CS3, CS4] ★★★☆☆ [Reverie] | [Tool](https://git.sr.ht/~quf/tocs/tree/trunk/tbled/README.md) [Documentation](https://github.com/nnguyen259/SenSchema/wiki) (No public tool exists for Reverie, manageable through hex editing)\
-Effect editing: ★★★★★ [CS, CS2, CS3, CS4, Reverie]\(No public tool exists and hardly manageable through hex editing)\
-Font Creation: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Tool](https://github.com/TwnKey/FalcomFontCreator)\
-BGM/OST extraction: ☆☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | data/bgm folder contains all music files\
-Replace BGM: ★☆☆☆☆ [CS3] | [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Extract-and-replace-BGM)\
-Voice extraction: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | data/voice folder contains all voice lines, but finding a specific one requires some effort
+- Event editing: ★★★☆☆ [CS, CS2] ★★☆☆☆ [CS3, CS4, Reverie] | [CS1, CS2](https://github.com/TwnKey/SenScriptsDecompiler), [CS3](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED83), [CS4](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED84), [Reverie](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED85) | [SenScripts Guide](https://docs.google.com/document/d/1YVjFSkPsj9M0UgsI6_de4TSz35MeL_rGuhSQDtRTXxw/edit?usp=sharing)
+- Texture injection/extraction: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Guide](https://forums.dolphin-emu.org/Thread-custom-texture-tool-ps-v50-1?pid=482262#pid482262)
+- Model extraction: ★★☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Tool](https://github.com/uyjulian/ed8pkg2glb)
+- Model injection: ★★★★★ [CS4] | [Tools](https://github.com/Trails-Research-Group/Doc/releases/tag/v0.0) [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Import-custom-models-to-Cold-Steel-IV)
+- Table editing: ★☆☆☆☆ [CS, CS2, CS3, CS4] ★★★☆☆ [Reverie] | [Tool](https://git.sr.ht/~quf/tocs/tree/trunk/tbled/README.md) [Documentation](https://github.com/nnguyen259/SenSchema/wiki) (No public tool exists for Reverie, manageable through hex editing)
+- Effect editing: ★★★★★ [CS, CS2, CS3, CS4, Reverie]\(No public tool exists and hardly manageable through hex editing)
+- Font Creation: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Tool](https://github.com/TwnKey/FalcomFontCreator)
+- BGM/OST extraction: ☆☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | data/bgm folder contains all music files
+- Replace BGM: ★☆☆☆☆ [CS3] | [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Extract-and-replace-BGM)
+- Voice extraction: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | data/voice folder contains all voice lines, but finding a specific one requires some effort
 
 ### Calvard series
-Event editing: ★★★☆☆ [Kuro] | [Tool](https://github.com/nnguyen259/KuroTools) [Guide](https://docs.google.com/document/d/19ajbTZzda54i5xZWDLXOq0oOVQrhJYXU9rmgz3Ya3Bc/edit?usp=sharing)\
-Table editing: ★★☆☆☆ [Kuro]| [Tool](https://github.com/nnguyen259/KuroTools) [Guide](https://docs.google.com/document/d/19ajbTZzda54i5xZWDLXOq0oOVQrhJYXU9rmgz3Ya3Bc/edit?usp=sharing)\
-Texture injection/extraction: ☆☆☆☆☆ [Kuro]\
-Model extraction: ★☆☆☆☆ [Kuro] | [Exe](https://github.com/nnguyen259/KuroTools) [Python](https://gist.github.com/uyjulian/9a9d6395682dac55d113b503b1172009)\
-Model injection: ★★★★★ [Kuro] (No public tool exists)\
-Font Creation: ★★★☆☆ [Kuro] | [Tool](https://github.com/TwnKey/ED9FontConverter)
+- Event editing: ★★★☆☆ [Kuro] | [Tool](https://github.com/nnguyen259/KuroTools) [Guide](https://docs.google.com/document/d/19ajbTZzda54i5xZWDLXOq0oOVQrhJYXU9rmgz3Ya3Bc/edit?usp=sharing)
+- Table editing: ★★☆☆☆ [Kuro]| [Tool](https://github.com/nnguyen259/KuroTools) [Guide](https://docs.google.com/document/d/19ajbTZzda54i5xZWDLXOq0oOVQrhJYXU9rmgz3Ya3Bc/edit?usp=sharing)
+- Texture injection/extraction: ☆☆☆☆☆ [Kuro]
+- Model extraction: ★☆☆☆☆ [Kuro] | [Exe](https://github.com/nnguyen259/KuroTools) [Python](https://gist.github.com/uyjulian/9a9d6395682dac55d113b503b1172009)
+- Model injection: ★★★★★ [Kuro] (No public tool exists)
+- Font Creation: ★★★☆☆ [Kuro] | [Tool](https://github.com/TwnKey/ED9FontConverter)
 
 ## FAQ
-- *How to backport characters from the latest game to a previous entry (usually Kuro to CS, CS2 to CS1, CS4 to CSX)?*\
-Backporting is currently one of the most complex tasks in Trails modding. It is also not documented at all. You will currently not find help anywhere, but we are planning to write a guide for Kuro to CSIV if possible, depending on several factors.
 
 ## Places we recommend checking out
 **[The Kiseki Modding Server](https://discord.gg/wYkWS33NQt)**
