@@ -32,18 +32,18 @@ BGM/OST extraction: ☆☆☆☆☆ [FC, SC, 3rd] | BGM folder contains all musi
 Replace BGM: ★☆☆☆☆ [FC, SC, 3rd] | [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Extract-and-replace-BGM)
 
 ### Crossbell series
-Event editing: ★★☆☆☆ [Zero, Azure] | [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit), [Tool](https://github.com/Ouroboros/EDDecompiler)\
+Event editing: ★★☆☆☆ [Zero, Azure] | [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit), [Tool](https://github.com/GeofrontTeam/EDDecompiler) (Note that multiple forks of EDDecompiler exist and this one is probably the most advanced one, including scripts for Zero and Azure Kai versions)\
 Texture injection/extraction: UNKNOWN [Zero, Azure]\
 Sprite extraction/injection: UNKNOWN [Zero, Azure]\
 Model extraction/injection: UNKNOWN [Zero, Azure]\
-Table editing: ★★★★★ [Zero, Azure] (No public tool exists)\
-Font Creation: UNKNOWN [Zero, Azure] 
+Table editing: ★★★★★ [Zero, Azure] (Public tools might exist but they're scattered everywhere and don't support every table)\
+Font Creation: ★☆☆☆☆ [Zero (NISA)] | [Tool](https://github.com/TwnKey/FalcomFontCreator)\
 
 ### Trails of Cold Steel series
 Event editing: ★★★☆☆ [CS, CS2] ★★☆☆☆ [CS3, CS4, Reverie] | [CS1, CS2](https://github.com/TwnKey/SenScriptsDecompiler), [CS3](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED83), [CS4](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED84), [Reverie](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED85) | [SenScripts Guide](https://docs.google.com/document/d/1YVjFSkPsj9M0UgsI6_de4TSz35MeL_rGuhSQDtRTXxw/edit?usp=sharing)\
 Texture injection/extraction: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Guide](https://forums.dolphin-emu.org/Thread-custom-texture-tool-ps-v50-1?pid=482262#pid482262)\
 Model extraction: ★★☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Tool](https://github.com/uyjulian/ed8pkg2glb)\
-Model injection: ★★★★★ [CS, CS2, CS3, CS4, Reverie] (No public tool exists)\
+Model injection: ★★★★★ [CS, CS2, CS3, CS4, Reverie] | [Tools](https://github.com/Trails-Research-Group/Doc/releases/tag/v0.0) [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Import-custom-models-to-Cold-Steel-IV)\
 Table editing: ★☆☆☆☆ [CS, CS2, CS3, CS4] ★★★☆☆ [Reverie] | [Tool](https://git.sr.ht/~quf/tocs/tree/trunk/tbled/README.md) [Documentation](https://github.com/nnguyen259/SenSchema/wiki) (No public tool exists for Reverie, manageable through hex editing)\
 Effect editing: ★★★★★ [CS, CS2, CS3, CS4, Reverie]\(No public tool exists and hardly manageable through hex editing)\
 Font Creation: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Tool](https://github.com/TwnKey/FalcomFontCreator)\
@@ -90,13 +90,4 @@ Database containing the script for all the Trails games, sorted by script files,
 - [Playable/Transformable McBurn in CSIV](https://www.youtube.com/watch?v=2tHkFzYEoik&ab_channel=NBigboyC2)
 - ["Ogre unleashed" in CS1](https://www.youtube.com/watch?v=BCwvs3dekz8&ab_channel=NBigboyC2)
 - [Laura "Radiant Dance" craft from CS1, ported to CSIII](https://www.youtube.com/watch?v=cC9knrPk4sQ&ab_channel=NBigboyC2)
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
