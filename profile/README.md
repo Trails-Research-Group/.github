@@ -32,7 +32,9 @@ We define a difficulty scale for each item which reads like this:
 - Replace BGM: ★☆☆☆☆ [FC, SC, 3rd] | [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Extract-and-replace-BGM)
 
 ### Crossbell series
-- Event editing: ★★☆☆☆ [Zero, Azure] | [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit), [Tool](https://github.com/GeofrontTeam/EDDecompiler) (Note that multiple forks of EDDecompiler exist and this one is probably the most advanced one, including scripts for Zero and Azure Kai versions)
+- Event editing: ★★☆☆☆ [Zero, Azure] | [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit), [Tool](https://github.com/AGraber/EDDecompiler)\
+
+(Ok a note here; lots of forks of EDDecompiler exist, the original one doesn't even support Zero. Zero and Ao support (The Joyoland version) should have been added by [Zhenjian Yang](https://github.com/ZhenjianYang), then the Geofront team seems to have started a decompilation tool for Zero Kai (Version on which NISA's is based) that recompiles with the Joyoland Zero scripts (meaning recompilation could be broken), for understandable reasons their work looks unfinished and can be found [here](https://github.com/GeofrontTeam/EDDecompiler), finally Adrian Graber finished the work for their switch translation port and allowed recompilation for Zero Kai ([Tool for Kai])(https://github.com/AGraber/EDDecompiler). It is not confirmed yet if it is fully compatible with NISA's release but it should be.
 - Texture injection/extraction: UNKNOWN [Zero, Azure]
 - Sprite extraction/injection: UNKNOWN [Zero, Azure]
 - Model extraction/injection: UNKNOWN [Zero, Azure]
