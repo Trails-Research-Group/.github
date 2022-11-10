@@ -86,7 +86,9 @@ Database containing the script for all the Trails games, sorted by script files,
 
 ## Released Mods
 
-If your mod is missing from this list, feel free to [file an issue](https://github.com/Trails-Research-Group/.github/issues)
+Note: This is a general list of mods.
+We are not involved with all of these, so please direct any questions about the mods to their respective authors.
+If your mod is missing from this list, feel free to [file an issue](https://github.com/Trails-Research-Group/.github/issues).
 
 ### Trails in the Sky (XSeed PC version)
 
@@ -113,6 +115,8 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - [Additional portraits mod by ShinKiseki](https://github.com/shinkiseki/MorePortraitsInZero).
 
 - [Difficulty mod by SoftBrilliant](https://www.reddit.com/r/Falcom/comments/y55sx6/trails_from_zero_difficulty_mod_official_rerelease/)
+
+- [Inevitable Zero by Kyuuhachi](https://github.com/Kyuuhachi/Inevitable-Zero). Ports over additional quests from the Evolution ports.
 
 ### Trails to Azure (NISA PC version)
 
