@@ -25,14 +25,15 @@ We define a difficulty scale for each item which reads like this:
 - Texture injection/extraction: ★☆☆☆☆ [FC] | [Tool](https://github.com/Kaplas80/TranslationFramework2)
 - Sprite extraction/injection: ★☆☆☆☆ [FC, SC, 3rd] | [Tool](https://github.com/Sewer56/Kiseki-Texture-Tool)
 - Model extraction/injection: UNKNOWN [FC, SC, 3rd]
-- Action Scripts editing: ★★★☆☆ [FC] | [Tool FC](https://github.com/TwnKey/ED6ASDecompiler), [Tool 3rd](https://github.com/Ouroboros/Falcom/tree/master/ed63cn/ASDecompiler)
+- Animation Scripts editing: ★★★☆☆ [FC] | [Tool FC](https://github.com/TwnKey/ED6ASDecompiler), [Tool 3rd](https://github.com/Ouroboros/Falcom/tree/master/ed63cn/ASDecompiler)
+- Monster Scripts (MS.DT files) [3rd] | [Tool](https://github.com/akatatsu27/Falcom_Data_Formats/releases/tag/release)
 - Table editing: ★☆☆☆☆ [FC] | [Tool](https://github.com/Kaplas80/TranslationFramework2)
 - Font Creation: ★★☆☆☆ [FC, SC, 3rd] |[Tool](https://github.com/ZhenjianYang/SoraTranslation-Tools)
 - BGM/OST extraction: ☆☆☆☆☆ [FC, SC, 3rd] | BGM folder contains all music files
 - Replace BGM: ★☆☆☆☆ [FC, SC, 3rd] | [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Extract-and-replace-BGM)
 
 ### Crossbell series
-- Scena/Action Scripts editing: ★★☆☆☆ [Zero, Azure] | [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit), [Tool](https://github.com/AGraber/EDDecompiler)
+- Scena/Animation Scripts editing: ★★☆☆☆ [Zero, Azure] | [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit), [Tool](https://github.com/AGraber/EDDecompiler)
 
 (Ok a note here; lots of forks of EDDecompiler exist, the original one doesn't even support Zero. Zero and Ao support (The Joyoland version) should have been added by [Zhenjian Yang](https://github.com/ZhenjianYang), then the Geofront team seems to have started a decompilation tool for Zero Kai (Version on which NISA's is based) that recompiles with the Joyoland Zero scripts (meaning recompilation could be broken), for understandable reasons their work looks unfinished and can be found [here](https://github.com/GeofrontTeam/EDDecompiler), finally Adrian Graber finished the work for their switch translation port and allowed recompilation for Zero Kai ([Tool for Kai](https://github.com/AGraber/EDDecompiler)). It is not confirmed yet if it is fully compatible with NISA's release but it should be.
 - Texture injection/extraction: ★★☆☆☆ [Zero, Azure] | [Tool](https://github.com/GeofrontTeam/EDDecompiler/blob/master/Decompiler/png32toitx.py), [DDS To 32Bits ITP](https://gist.github.com/Kyuuhachi/5af2b9c2036ae8e9b474e43b2854eef3)
@@ -42,7 +43,7 @@ We define a difficulty scale for each item which reads like this:
 - Font Creation: ★☆☆☆☆ [Zero (NISA)] | [Tool](https://github.com/TwnKey/FalcomFontCreator)
 
 ### Trails of Cold Steel series
-- Scena/Action Scripts editing: ★★★☆☆ [CS, CS2] ★★☆☆☆ [CS3, CS4, Reverie] | [CS1, CS2](https://github.com/TwnKey/SenScriptsDecompiler), [CS3](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED83), [CS4](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED84), [Reverie](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED85) | [SenScripts Guide](https://docs.google.com/document/d/1YVjFSkPsj9M0UgsI6_de4TSz35MeL_rGuhSQDtRTXxw/edit?usp=sharing)
+- Scena/Animation Scripts editing: ★★★☆☆ [CS, CS2] ★★☆☆☆ [CS3, CS4, Reverie] | [CS1, CS2](https://github.com/TwnKey/SenScriptsDecompiler), [CS3](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED83), [CS4](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED84), [Reverie](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED85) | [SenScripts Guide](https://docs.google.com/document/d/1YVjFSkPsj9M0UgsI6_de4TSz35MeL_rGuhSQDtRTXxw/edit?usp=sharing)
 - Texture injection/extraction: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Guide](https://forums.dolphin-emu.org/Thread-custom-texture-tool-ps-v50-1?pid=482262#pid482262)
 - Model extraction: ★★☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Tool](https://github.com/uyjulian/ed8pkg2glb)
 - Model injection: ★★★★★ [CS4] | [Tools](https://github.com/Trails-Research-Group/Doc/releases/tag/v0.0) [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Import-custom-models-to-Cold-Steel-IV)
