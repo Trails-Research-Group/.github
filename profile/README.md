@@ -26,7 +26,7 @@ We define a difficulty scale for each item which reads like this:
 - Sprite extraction/injection: ★☆☆☆☆ [FC, SC, 3rd] | [Tool](https://github.com/Sewer56/Kiseki-Texture-Tool)
 - Model extraction/injection: UNKNOWN [FC, SC, 3rd]
 - Animation Scripts editing: ★★★☆☆ [FC] | [Tool FC](https://github.com/TwnKey/ED6ASDecompiler), [Tool 3rd](https://github.com/Ouroboros/Falcom/tree/master/ed63cn/ASDecompiler)
-- Monster Scripts (MS.DT files) [3rd] | [Tool](https://github.com/akatatsu27/Falcom_Data_Formats/releases/tag/release)
+- Monster Scripts (MS.DT files) ★★☆☆☆ [3rd] | [Tool](https://github.com/akatatsu27/Falcom_Data_Formats/releases/tag/release)
 - Table editing: ★☆☆☆☆ [FC] | [Tool](https://github.com/Kaplas80/TranslationFramework2)
 - Font Creation: ★★☆☆☆ [FC, SC, 3rd] |[Tool](https://github.com/ZhenjianYang/SoraTranslation-Tools)
 - BGM/OST extraction: ☆☆☆☆☆ [FC, SC, 3rd] | BGM folder contains all music files
