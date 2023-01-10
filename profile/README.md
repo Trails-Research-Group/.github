@@ -163,6 +163,8 @@ Not released yet
 
 - [Twilight Rebalance mod by SoftBrilliant](https://www.reddit.com/r/Falcom/comments/qnlowv/cs4_twilight_rebalance_a_difficultybalance_mod/)
 
+- Evolution mod by anonymous, download via the [modding discord](https://discord.gg/XpFrXWht6j): Makes various characters playable, adds crafts, various other changes
+
 ### Trails into the Reverie (NISA PC version)
 
 Not released yet
@@ -170,6 +172,10 @@ Not released yet
 ### Other games
 
 - CS1/CS2 Vita: [Backport of additional english voices from the PC version](https://www.reddit.com/r/Falcom/comments/fbgw8d/trails_of_cold_steel_i_ii_pc_voices_backported_to/)
+
+- CS1 Switch (Kai): [English translation mod by MasaGratoR & Graber](https://github.com/masagrator/ToCS1-ENX)
+
+- CS2 Switch (Kai): [English translation mod by MasaGratoR & Graber](https://github.com/masagrator/ToCS2-ENX)
 
 ## Showcases
 - [Shizuna's backport to CSIV](https://www.youtube.com/watch?v=mJz8IeevlDw&ab_channel=Twn)
