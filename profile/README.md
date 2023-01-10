@@ -94,29 +94,23 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 ### Trails in the Sky (XSeed PC version)
 
 - [Trails in the Dub](https://trailsinthedub.wixsite.com/dubbed): Fandub project for Trails in the Sky, not yet finished but still active.
-
 - [SoraVoice by ZhenjianYang](https://github.com/ZhenjianYang/SoraVoice): Adds Japanese voice acting from the Evolution version.
-
 - [HD textures by TwnKey](https://github.com/TwnKey/FC_HD)
 
 ### Trails in the Sky SC (XSeed PC version)
 
 - [SoraVoice by ZhenjianYang](https://github.com/ZhenjianYang/SoraVoice): Adds Japanese voice acting from the Evolution version.
-
 - [Josette rebalance mod by Hopyoprop](https://www.reddit.com/r/Falcom/comments/qtgh3z/mod_josette_rebalance_other_small_things/): Makes Josette less terrible in combat plus other changes.
 
 ### Trails in the Sky the 3rd (XSeed PC version)
 
 - [SoraVoice by ZhenjianYang](https://github.com/ZhenjianYang/SoraVoice): Adds Japanese voice acting from the Evolution version.
-
 - [Josette rebalance mod by Hopyoprop](https://www.reddit.com/r/Falcom/comments/qtgh3z/mod_josette_rebalance_other_small_things/): Makes Josette less terrible in combat plus other changes.
 
 ### Trails from Zero (NISA PC version)
 
 - [Additional portraits mod by ShinKiseki](https://github.com/shinkiseki/MorePortraitsInZero).
-
 - [Difficulty mod by SoftBrilliant](https://www.reddit.com/r/Falcom/comments/y55sx6/trails_from_zero_difficulty_mod_official_rerelease/)
-
 - [Inevitable Zero by Kyuuhachi](https://github.com/Kyuuhachi/Inevitable-Zero). Ports over additional quests from the Evolution ports.
 
 ### Trails to Azure (NISA PC version)
@@ -126,43 +120,30 @@ Not released yet
 ### Trails of Cold Steel (XSeed PC version)
 
 - [SenPatcher by AdmiralCurtiss](https://github.com/AdmiralCurtiss/SenPatcher): various bugfixes and QoL features
-
 - [HD textures by Bighead](https://steamcommunity.com/app/538680/discussions/0/2579854400755735260/)
-
 - [Difficulty mod by SoftBrilliant](https://www.reddit.com/r/Falcom/comments/c0o756/cs1_difficulty_pack_v12/)
-
 - [Randomizer by hell259](https://github.com/nnguyen259/ColdSteelRandomizer): Randomizer for stats, crafts, chest contents, orbment layouts.
-
 - [Menu edits mod by EnDavio](https://steamcommunity.com/app/538680/discussions/0/3115920924819767678/): Various text fixes and improvements.
-
 - Evolution Boss mod by NZerker12: Adds various playable characters and abilities, plus a few miscellaneous changes. [Download via the discord](https://discord.gg/XpFrXWht6j).
 
 ### Trails of Cold Steel II (XSeed PC version)
 
 - [SenPatcher by AdmiralCurtiss](https://github.com/AdmiralCurtiss/SenPatcher): various bugfixes and QoL features
-
 - [HD textures by Bighead](https://steamcommunity.com/app/748490/discussions/0/2860219962081641200/)
-
 - [Difficulty mod by Bison](https://steamcommunity.com/app/748490/discussions/0/1696045708664951845/)
-
 - [Female Rean mod by StargazingSketcher](https://www.reddit.com/r/Falcom/comments/qh5mek/the_updated_shenanigans_of_female_rean_mod/)
 
 ### Trails of Cold Steel III (NISA PC version)
 
 - [SenPatcher by AdmiralCurtiss](https://github.com/AdmiralCurtiss/SenPatcher): various bugfixes and QoL features
-
 - [Difficulty mod by SoftBrilliant](https://www.reddit.com/r/Falcom/comments/gu5no5/trails_of_cold_steel_3_difficulty_mod_v_10_release/)
-
 - [Randomizer by hell259](https://github.com/nnguyen259/ColdSteel3Tools): Randomizer for stats, crafts, brave orders, and character models.
-
 - [Friendly fire mod by Hüllenoperator](https://git.sr.ht/~quf/cs3ffm)
 
 ### Trails of Cold Steel IV (NISA PC version)
 
 - [SenPatcher by AdmiralCurtiss](https://github.com/AdmiralCurtiss/SenPatcher): various QoL features
-
 - [Twilight Rebalance mod by SoftBrilliant](https://www.reddit.com/r/Falcom/comments/qnlowv/cs4_twilight_rebalance_a_difficultybalance_mod/)
-
 - Evolution mod by anonymous, download via the [modding discord](https://discord.gg/XpFrXWht6j): Makes various characters playable, adds crafts, various other changes
 
 ### Trails into the Reverie (NISA PC version)
@@ -172,9 +153,7 @@ Not released yet
 ### Other games
 
 - CS1/CS2 Vita: [Backport of additional english voices from the PC version](https://www.reddit.com/r/Falcom/comments/fbgw8d/trails_of_cold_steel_i_ii_pc_voices_backported_to/)
-
 - CS1 Switch (Kai): [English translation mod by MasaGratoR & Graber](https://github.com/masagrator/ToCS1-ENX)
-
 - CS2 Switch (Kai): [English translation mod by MasaGratoR & Graber](https://github.com/masagrator/ToCS2-ENX)
 
 ## Showcases
