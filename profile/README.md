@@ -34,8 +34,6 @@ We define a difficulty scale for each item which reads like this:
 
 ### Crossbell series
 - Scena/Animation Scripts editing: ★★☆☆☆ [Zero, Azure] | [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit), [Tool](https://github.com/AGraber/EDDecompiler)
-
-(Ok a note here; lots of forks of EDDecompiler exist, the original one doesn't even support Zero. Zero and Ao support (The Joyoland version) should have been added by [Zhenjian Yang](https://github.com/ZhenjianYang), then the Geofront team seems to have started a decompilation tool for Zero Kai (Version on which NISA's is based) that recompiles with the Joyoland Zero scripts (meaning recompilation could be broken), for understandable reasons their work looks unfinished and can be found [here](https://github.com/GeofrontTeam/EDDecompiler), finally Adrian Graber finished the work for their switch translation port and allowed recompilation for Zero Kai ([Tool for Kai](https://github.com/AGraber/EDDecompiler)). It is not confirmed yet if it is fully compatible with NISA's release but it should be.
 - Texture injection/extraction: ★★☆☆☆ [Zero, Azure] | [Tool](https://github.com/GeofrontTeam/EDDecompiler/blob/master/Decompiler/png32toitx.py), [DDS To 32Bits ITP](https://gist.github.com/Kyuuhachi/5af2b9c2036ae8e9b474e43b2854eef3)
 - Sprite extraction/injection: ★★☆☆☆ [Zero, Azure] | [Tool](https://github.com/GeofrontTeam/EDDecompiler/blob/master/Decompiler/png32toitx.py)
 - Model extraction/injection: UNKNOWN [Zero, Azure]
