@@ -57,7 +57,7 @@ We define a difficulty scale for each item which reads like this:
 - Table editing: ★★☆☆☆ [Kuro]| [Tool](https://github.com/nnguyen259/KuroTools) [Guide](https://docs.google.com/document/d/19ajbTZzda54i5xZWDLXOq0oOVQrhJYXU9rmgz3Ya3Bc/edit?usp=sharing)
 - Texture injection/extraction: ☆☆☆☆☆ [Kuro]
 - Model extraction: ★☆☆☆☆ [Kuro] | [Exe](https://github.com/nnguyen259/KuroTools) [Python (uyjulian)](https://gist.github.com/uyjulian/9a9d6395682dac55d113b503b1172009) [Python (eArmada8)](https://github.com/eArmada8/kuro_mdl_tool)
-- Model injection: ★★☆☆☆ [Kuro] [Exe](https://github.com/nnguyen259/KuroTools) [Python](https://github.com/eArmada8/kuro_mdl_tool)
+- Model injection: ★★☆☆☆ [Kuro] ([Exe](https://github.com/nnguyen259/KuroTools), [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Import-custom-models-to-Kuro-no-Kiseki)) [Python](https://github.com/eArmada8/kuro_mdl_tool)
 - Font Creation: ★★★☆☆ [Kuro] | [Tool](https://github.com/TwnKey/ED9FontConverter)
 
 ## FAQ
