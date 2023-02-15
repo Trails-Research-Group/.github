@@ -53,7 +53,7 @@ We define a difficulty scale for each item which reads like this:
 - Voice extraction: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | data/voice folder contains all voice lines, but finding a specific one requires some effort
 
 ### Calvard series
-- Scena/Action Scripts editing: ★★★☆☆ [Kuro] | [Tool](https://github.com/nnguyen259/KuroTools) [Guide](https://docs.google.com/document/d/19ajbTZzda54i5xZWDLXOq0oOVQrhJYXU9rmgz3Ya3Bc/edit?usp=sharing)
+- Scena/Action Scripts editing: ★★★☆☆ [Kuro] | [Tool](https://github.com/nnguyen259/KuroTools), [Guide on scena editing](https://docs.google.com/document/d/19ajbTZzda54i5xZWDLXOq0oOVQrhJYXU9rmgz3Ya3Bc/edit?usp=sharing), [Guide on AI scripting](https://docs.google.com/document/d/1ofetrdRn3BY8GIqfnzWrutw9MnyNEfLYZ6NOgxZzg8A/edit)
 - Table editing: ★★☆☆☆ [Kuro]| [Tool](https://github.com/nnguyen259/KuroTools) [Guide](https://docs.google.com/document/d/19ajbTZzda54i5xZWDLXOq0oOVQrhJYXU9rmgz3Ya3Bc/edit?usp=sharing)
 - Texture injection/extraction: ☆☆☆☆☆ [Kuro]
 - Model extraction: ★☆☆☆☆ [Kuro] | [Exe](https://github.com/nnguyen259/KuroTools) [Python (uyjulian)](https://gist.github.com/uyjulian/9a9d6395682dac55d113b503b1172009) [Python (eArmada8)](https://github.com/eArmada8/kuro_mdl_tool)
