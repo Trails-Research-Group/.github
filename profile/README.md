@@ -117,7 +117,7 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 
 ### Trails to Azure (NISA PC version)
 
-Not released yet
+- [Azure Vitality by Kyuuhachi](https://github.com/Kyuuhachi/Azure-Vitality). Ports over additional quests from the Evolution ports.
 
 ### Trails of Cold Steel (XSeed PC version)
 
