@@ -148,6 +148,7 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - [SenPatcher by AdmiralCurtiss](https://github.com/AdmiralCurtiss/SenPatcher): various QoL features
 - [Twilight Rebalance mod by SoftBrilliant](https://www.reddit.com/r/Falcom/comments/qnlowv/cs4_twilight_rebalance_a_difficultybalance_mod/)
 - Evolution mod by anonymous, download via the [modding discord](https://discord.gg/XpFrXWht6j): Makes various characters playable, adds crafts, various other changes
+- Costume restoration mod by My Name: Various outfits from CS1/2, Reverie, and Tokyo Xanadu, plus a few other cosmetic changes. Download via the [modding discord](https://discord.gg/wYkWS33NQt)
 
 ### Trails into the Reverie (NISA PC version)
 
