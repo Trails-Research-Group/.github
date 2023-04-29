@@ -1,3 +1,15 @@
+* [The group](#the-group)  
+* [To newcomers](#to-newcomers)    
+* [What is currently doable](#what-is-currently-doable)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Trails in the Sky series](#trails-in-the-sky-series)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Crossbell series](#crossbell-series)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Trails of Cold Steel series](#trails-of-cold-steel-series)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Calvard series](#calvard-series)  
+* [FAQ](#faq)  
+* [Places we recommend checking out](#places-we-recommend-checking-out)
+* [Released Mods](#released-mods)
+* [Showcases](#showcases)
+
 ## The group
 This group is made of modders of the Trails games who aim to make modding accessible to everyone. 
 Our goal is to offer a quick presentation of the modding scene, including available tools, guides and general documentation that has been established over the years.
