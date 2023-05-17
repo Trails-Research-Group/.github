@@ -154,6 +154,8 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - [Difficulty mod by SoftBrilliant](https://www.reddit.com/r/Falcom/comments/gu5no5/trails_of_cold_steel_3_difficulty_mod_v_10_release/)
 - [Randomizer by hell259](https://github.com/nnguyen259/ColdSteel3Tools): Randomizer for stats, crafts, brave orders, and character models.
 - [Friendly fire mod by Hüllenoperator](https://git.sr.ht/~quf/cs3ffm)
+- Costume restoration mod by My Name: Various outfits from CS1/2, Reverie, and Tokyo Xanadu. Download via the [modding discord](https://discord.gg/wYkWS33NQt)
+- [no cutscene kiseki](https://git.sr.ht/~quf/no-cutscene-kiseki): automatically skip cutscenes
 
 ### Trails of Cold Steel IV (NISA PC version)
 
