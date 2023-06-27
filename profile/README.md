@@ -103,7 +103,7 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 
 ### Trails in the Sky (XSeed PC version)
 
-- [Trails in the Dub](https://trailsinthedub.wixsite.com/dubbed): Fandub project for Trails in the Sky, not yet finished but still active.
+- [Trails in the Dub](https://trailsinthedub.wixsite.com/dubbed): Fandub project for Trails in the Sky.
 - [SoraVoice by ZhenjianYang](https://github.com/ZhenjianYang/SoraVoice): Adds Japanese voice acting from the Evolution version.
 - [HD textures by TwnKey](https://github.com/TwnKey/FC_HD)
 - [Trails of Josette by akatatsu27](https://github.com/akatatsu27/TrailsOfJosette): Josette
@@ -154,8 +154,8 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - [Difficulty mod by SoftBrilliant](https://www.reddit.com/r/Falcom/comments/gu5no5/trails_of_cold_steel_3_difficulty_mod_v_10_release/)
 - [Randomizer by hell259](https://github.com/nnguyen259/ColdSteel3Tools): Randomizer for stats, crafts, brave orders, and character models.
 - [Friendly fire mod by Hüllenoperator](https://git.sr.ht/~quf/cs3ffm)
-- Costume restoration mod by My Name: Various outfits from CS1/2, Reverie, and Tokyo Xanadu. Download via the [modding discord](https://discord.gg/wYkWS33NQt)
 - [no cutscene kiseki](https://git.sr.ht/~quf/no-cutscene-kiseki): automatically skip cutscenes
+- Restoration mod by My Name: Costumes from other games. Optional: crafts, lost arts from previous games, difficulty balance changes. Download via the [modding discord](https://discord.gg/wYkWS33NQt).
 
 ### Trails of Cold Steel IV (NISA PC version)
 
@@ -163,6 +163,7 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - [Twilight Rebalance mod by SoftBrilliant](https://www.reddit.com/r/Falcom/comments/qnlowv/cs4_twilight_rebalance_a_difficultybalance_mod/)
 - Evolution mod by anonymous, download via the [modding discord](https://discord.gg/XpFrXWht6j): Makes various characters playable, adds crafts, various other changes
 - Costume restoration mod by My Name: Various outfits from CS1/2, Reverie, and Tokyo Xanadu, plus a few other cosmetic changes. Download via the [modding discord](https://discord.gg/wYkWS33NQt)
+- Costume mod by ProbablyNotAZebra: Outfit for Sara based on her CS1 outfit. Download via the modding discord.
 
 ### Trails into the Reverie (NISA PC version)
 
