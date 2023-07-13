@@ -57,7 +57,7 @@ We define a difficulty scale for each item which reads like this:
 - Texture injection/extraction: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Guide](https://forums.dolphin-emu.org/Thread-custom-texture-tool-ps-v50-1?pid=482262#pid482262)
 - Model extraction: ★★☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Tool](https://github.com/uyjulian/ed8pkg2glb)
 - Model injection: ★★★★★ [CS3, CS4, Reverie] | [Tool (Maya)](https://github.com/Trails-Research-Group/Doc/releases/tag/v0.0) [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Import-custom-models-to-Cold-Steel-IV), [Tool (Blender, etc)](https://github.com/eArmada8/ed8pkg2gltf/releases)
-- Table editing: ★☆☆☆☆ [CS, CS2, CS3, CS4] ★★★☆☆ [Reverie] | [Tool](https://git.sr.ht/~quf/tocs/tree/trunk/tbled/README.md) [Documentation](https://github.com/nnguyen259/SenSchema/wiki) (No public tool exists for Reverie, manageable through hex editing)
+- Table editing: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Tool](https://git.sr.ht/~quf/tocs/tree/trunk/tbled/README.md) [Documentation](https://github.com/nnguyen259/SenSchema/wiki)
 - Effect editing: ★★★★★ [CS, CS2, CS3, CS4, Reverie]\(No public tool exists and hardly manageable through hex editing)
 - Font Creation: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Tool](https://github.com/TwnKey/FalcomFontCreator)
 - BGM/OST extraction: ☆☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | data/bgm folder contains all music files
@@ -167,7 +167,7 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 
 ### Trails into the Reverie (NISA PC version)
 
-Not released yet
+- Costume mod by ProbablyNotAZebra: Outfit for Rixia and Wazy based on earlier games. Download via the modding discord.
 
 ### Other games
 
