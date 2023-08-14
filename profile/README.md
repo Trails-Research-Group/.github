@@ -168,7 +168,7 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 ### Trails into the Reverie (NISA PC version)
 
 - Costume mod by ProbablyNotAZebra: Outfit for Rixia and Wazy based on earlier games. Download via the modding discord.
-
+- [Randomizer by hell259](https://github.com/nnguyen259/ReverieRandomizer): Crafts and Brave Orders
 ### Other games
 
 - CS1/CS2 Vita: [Backport of additional english voices from the PC version](https://www.reddit.com/r/Falcom/comments/fbgw8d/trails_of_cold_steel_i_ii_pc_voices_backported_to/)
