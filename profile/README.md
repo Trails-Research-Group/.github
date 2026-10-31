@@ -6,3 +6,7 @@ We will also try to promote the work of other modders as much as possible, be it
 The main repository where we collect this information is: https://github.com/Trails-Research-Group/Doc
 
 The philosophy of our group is that we don't answer questions directly, but will consider writing a guide so that we don't have to repeat ourselves, as the questions in the modding community usually end up being more or less the same every time. And this is due to the fact that barely anyone documents their work among the modders and tool makers.
+
+## Community
+
+Chatrooms, forums, and other resources are available at the following location: https://github.com/Trails-Research-Group/Doc#places-we-recommend-checking-out
